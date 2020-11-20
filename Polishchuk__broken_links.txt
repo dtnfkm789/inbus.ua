@@ -1,0 +1,4 @@
+https://inbus.ua/station/ ( parent page: https://inbus.ua/city/wroclaw-9616025296 )
+https://inbus.ua/city/ ( parent page: https://inbus.ua/station/chernivtsi-vin-obl-180400005355 )
+https://inbus.ua/cities/ ( parent page: https://inbus.ua/station/chernivtsi-vin-obl-180400005355 )
+ 
